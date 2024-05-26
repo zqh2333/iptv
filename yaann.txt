@@ -102,4 +102,3 @@ CCTV16 4K,http://10.10.10.3:2222/rtp/239.93.55.54:5140
 解密高清,http://10.10.10.3:2222/rtp/239.93.24.199:9048
 地理高清,http://10.10.10.3:2222/rtp/239.93.24.200:9052
 客厅摄像头,rtsp://admin:HikZMDJBJ@10.10.10.111:554/streaming/Channels/1
-摄像头,rtsp://admin:HikZMDJBJ@10.10.10.111:554/h264/ch1/main/av_stream
